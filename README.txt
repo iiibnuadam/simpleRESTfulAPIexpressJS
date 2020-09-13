@@ -10,4 +10,5 @@ Guide :
         `last_name` varchar(50) NOT NULL DEFAULT '0',
         PRIMARY KEY (`id`)
     )
-4. run this server with 'node server.js'
+4. Setting your connnection to your database in file conn.js
+5. run this server with 'node server.js'
